@@ -2,7 +2,7 @@ A business-professional-turned **Machine Learning** hobbyist and coder.
 
 - 👩🏻‍💼 I was an investment banker and MIT MBA in my past life. Some great Machine Learning engineers I met at work and planted the seed.
 - 🔭 I’m in the process of exploring, with a recent focus on ML applications on content platforms.
-- 👯 I’m looking for opportunities to become a **Machine Learning PM** or any opportunities to work with passionate ML Engineers and Data Scientists!
+- 👯 I’m looking for job opportunities to become a **Machine Learning PM** or any opportunities to work with passionate ML Engineers and Data Scientists!
 
 🌱 Some great resources over which I taught myself Machine Learning:
 - Linear Algebra: [MIT OpenCourseWare Linear Algebra by Gilbert Strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) (💗my forever favoriate)
