@@ -1,4 +1,4 @@
-### Hi there 👋
+A business-professional-turned **Machine** Learning hobbyist and coder
 
 <!--
 **silviazeng/silviazeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
