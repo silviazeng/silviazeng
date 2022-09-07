@@ -4,7 +4,7 @@ A business-professional-turned **Machine Learning** hobbyist and coder.
 - 🔭 I’m in the process of exploring, with a recent focus on ML applications on content platforms.
 - 👯 I’m looking for job opportunities to become a **Machine Learning PM** or a business thought partner to passionate Engineers and Data Scientists!
 
-🌱 Some great resources over which I taught myself Machine Learning:
+🌱 Some great beginner-friendly resources over which I taught myself Machine Learning:
 - Linear Algebra: [MIT OpenCourseWare Linear Algebra by Gilbert Strang](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) (💗my forever favoriate)
 - Statistics: tried several MIT OCW courses, but still haven't found a good one for ML, let me know if you have any in mind!
 - Machine Learning Walk-through: [Machine Learning Coursera course by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction#courses) (a good overview within a relative short time, and useful check to see where the mathematical review are needed)
