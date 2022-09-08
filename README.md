@@ -1,6 +1,6 @@
 A business-professional-turned **Machine Learning** hobbyist and coder.
 
-- 👩🏻‍💼 I was an investment banker and MIT MBA in my past life. Some great Machine Learning engineers I met at work and planted the seed.
+- 👩🏻‍💼 I was an investment banker and MIT MBA in my past life. Some great Machine Learning engineers I met at work planted the seed.
 - 🔭 I’m in the process of exploring, with a recent focus on ML applications on content platforms.
 - 👯 I’m looking for job opportunities to become a **Machine Learning PM** or a business thought partner to passionate Engineers and Data Scientists!
 
