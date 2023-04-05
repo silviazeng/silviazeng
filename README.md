@@ -8,7 +8,7 @@ A business-professional-turned **Machine Learning** hobbyist and coder.
 - Linear Algebra: [Linear Algebra by Gilbert Strang (MIT OpenCourseWare)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) (💗my forever favoriate)
 - Statistics: tried several MIT OCW courses, but still haven't found a good one for ML, let me know if you have any in mind!
 - Machine Learning Walk-through: [Machine Learning Coursera course by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction#courses) (it doesn't cover more advanced topics, but still a good enough quick entry-level overview, and useful check to see where the mathematical review are needed)
-- Hands–On Machine Learning with Scikit–Learn and TensorFlow **2ed** published by O’Reilly (it's still my No.1 recommendations to beginners like me. You will also have the chance to familiarize yourself with Python along the way)
+- [Hands–On Machine Learning with Scikit–Learn and TensorFlow **2ed**] (https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646published) by O’Reilly (it's still my No.1 recommendations to beginners like me, till the next edition comes out. You will also have the chance to familiarize yourself with Python along the way)
 
 <!--
 **silviazeng/silviazeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
