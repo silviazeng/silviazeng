@@ -2,7 +2,7 @@ A business-professional-turned **Machine Learning** hobbyist and coder.
 
 - 👩🏻‍💼 I was an investment banker and MIT MBA in my past life. Some great Machine Learning engineers I met at work planted the seed.
 - 🔭 I’m in the process of exploring, with a recent focus on ML applications in media & entertainment.
-- 👯 I’m looking for job opportunities to become a **Machine Learning PM** or a business thought partner to passionate Engineers and Data Scientists!
+- 👯 I’m looking for job opportunities to become a **Machine Learning PM/TPM** or a business thought partner to passionate Engineers and Data Scientists!
 
 🌱 Some great beginner-friendly resources over which I taught myself Machine Learning:
 - Linear Algebra: [Linear Algebra by Gilbert Strang (MIT OpenCourseWare)](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C) (a godsend, ❤️my forever favoriate! A more advanced 18.065 Matrix Method is also available, but not as divine as 18.06 Linear Algebra)
