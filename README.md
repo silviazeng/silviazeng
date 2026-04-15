@@ -1,7 +1,7 @@
-Still converging — ex-banker turned ML explorer, on shifting grounds.
-👩🏻‍💼 Investment banker & MIT MBA in my past life. Some great ML engineers I met at work planted the seed — and I've been tumbling down the rabbit hole since.
-👯 If you're an AI product builder, ML engineer, or data scientist looking for a business-native thought partner, let me know!
-✍️ I write about what I'm learning (and what's confusing me) on my [personal blog](https://silviazeng.github.io/).
+Still converging — ex-banker turned ML explorer, on shifting grounds.  
+👩🏻‍💼 Investment banker & MIT MBA in my past life. Some great ML engineers I met at work planted the seed — and I've been tumbling down the rabbit hole since.  
+👯 If you're an AI product builder, ML engineer, or data scientist looking for a business-native thought partner, let me know!  
+✍️ I write about what I'm learning (and what's confusing me) on my [personal blog](https://silviazeng.github.io/).  
 
 
 🌱 Beginner-friendly resources that got me here:
